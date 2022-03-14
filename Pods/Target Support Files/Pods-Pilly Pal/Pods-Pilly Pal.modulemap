@@ -1,0 +1,6 @@
+framework module Pods_Pilly_Pal {
+  umbrella header "Pods-Pilly Pal-umbrella.h"
+
+  export *
+  module * { export * }
+}
