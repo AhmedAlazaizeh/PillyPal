@@ -2,7 +2,7 @@
 
 <h3>1- Splash Screen</h3>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-002.png" height="400">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-002.png" height="500">
 </p>
 
 <h3>2- Starting Screens</h3>
@@ -14,20 +14,20 @@
 
 <h3>3- Main Screen</h3>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-021.png" height="400">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-021.png" height="500">
 </p>
 
 <h3>4- Profile Creation</h3>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-018.png" height="400">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-012.png" height="400">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-017.png" height="400">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-018.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-012.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-017.png" height="500">
 </p>
 
 <h3>5- Reminder</h3>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-024.png" height="400">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-029.png" height="400">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-024.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-029.png" height="500">
 </p>
 
 <h3>6- BMI Calculator</h3>
