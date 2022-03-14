@@ -32,20 +32,20 @@
 
 <h3>6- BMI Calculator</h3>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-032.png" height="350">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-040.png" height="350">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-039.png" height="350">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-041.png" height="350">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-032.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-040.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-039.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-041.png" height="500">
 </p>
 
 <h3>7- Search</h3>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-044.png" height="400">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-047.png" height="400">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-044.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-047.png" height="500">
 </p>
 
 <h3>8- Pill Identification</h3>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-051.png" height="400">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-050.png" height="400">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-051.png" height="500">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-050.png" height="500">
 </p>
