@@ -32,10 +32,10 @@
 
 <h2>6- BMI Calculator</h2>
 <p float="left">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-032.png" height="355">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-040.png" height="355">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-039.png" height="355">
-<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-041.png" height="355">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-032.png" height="353">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-040.png" height="353">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-039.png" height="353">
+<img src="https://github.com/AhmedAlazaizeh/PillyPal/blob/2e0a958ea88d5b4f3b5c591c691ebdaae5c12069/Screenshots/image-041.png" height="353">
 </p>
 
 <h2>7- Search</h2>
